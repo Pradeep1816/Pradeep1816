@@ -45,11 +45,13 @@ Full-stack developer with over two years of experience building responsive web a
 
 ## Featured Projects
 
-### [CodeMind — AI Developer Assistant](https://github.com/Pradeep1816/ai-dev-assistant)
+### [CodeMind — Code Intelligence Platform](https://github.com/Pradeep1816/codemind-api)
 
-An in-progress developer tool designed to help teams understand unfamiliar codebases and investigate errors using real project context. The planned architecture combines workspace isolation, repository indexing, RAG-based search, debugging assistance, and background jobs in a NestJS backend.
+An in-progress platform that converts software repositories into structured knowledge for developers and AI coding agents. The implemented NestJS backend provides multi-tenant organizations, RBAC, secure session-backed authentication, repository and branch management, and a durable PostgreSQL-backed indexing pipeline.
 
-`TypeScript` `NestJS` `Jest` `RAG` `Developer Tools`
+The indexing engine supports full and incremental runs, bounded Git-tree discovery, TypeScript/JavaScript parsing, symbol extraction, dependency graphs, retries, cancellation, and expired-job recovery. Knowledge-graph extraction, search, AI providers, and MCP integrations are planned for upcoming phases.
+
+`TypeScript` `NestJS` `PostgreSQL` `TypeORM` `Jest` `Static Analysis`
 
 ### SMW Music Academy
 
