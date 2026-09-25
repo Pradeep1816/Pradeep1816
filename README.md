@@ -59,13 +59,6 @@ A music-academy platform supporting student, teacher, enrolment, lesson, invoice
 
 `NestJS` `TypeORM` `MySQL` `Redis` `REST APIs`
 
-### GroceKart
-
-A full-stack grocery-delivery platform featuring secure authentication, role-based access, product discovery, cart and checkout flows, Stripe payments, Google Maps integration, and an administration dashboard.
-
-[View the public frontend repository](https://github.com/Pradeep1816/grocery-app)
-
-`React` `Node.js` `Express.js` `Tailwind CSS` `MySQL`
 
 ## Education
 
