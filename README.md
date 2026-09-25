@@ -19,9 +19,9 @@ I build practical, maintainable web applications with a focus on backend systems
 
 ## Selected Projects
 
-### [AI Dev Assistant for Teams](https://github.com/Pradeep1816/ai-dev-assistant)
+### [CodeMind — AI Developer Assistant](https://github.com/Pradeep1816/ai-dev-assistant)
 
-An in-progress NestJS application designed to help development teams understand codebases and investigate errors using project context. Its planned architecture covers workspace isolation, repository indexing, RAG-based search, debugging assistance, and background jobs.
+**CodeMind** is an in-progress developer tool designed to help engineering teams understand unfamiliar codebases and investigate errors using real project context. Its planned architecture combines workspace isolation, repository indexing, RAG-based search, debugging assistance, and background jobs in a NestJS backend.
 
 `TypeScript` `NestJS` `Jest` `RAG` `Developer Tools`
 
