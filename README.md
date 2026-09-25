@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | Next.js, NestJS, React & Node.js
 
-Full-stack developer with over two years of experience building responsive web applications and backend services. I work across REST APIs, third-party integrations, automation, authentication, and database-driven business systems.
+I'm a Full Stack Developer with around 2+ years of production experience, primarily working with Node.js/NestJS, React/Next.js and TypeScript. I've worked on both frontend and backend, production debugging, business logic, database operations and deployments. I'm now looking for a role where I can take on more engineering responsibility and continue growing into AI-enabled software development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pradeepkrmahto7991/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pradeepmahto7991@gmail.com)
