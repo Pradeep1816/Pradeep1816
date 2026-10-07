@@ -1,6 +1,6 @@
 # Pradeep Kumar Mahto
 
-### Full-Stack Developer | Next.js, NestJS, React & Node.js
+### Full-Stack Developer | Next.js, NestJS, MySQL & Node.js
 
 I'm a Full Stack Developer with around 2+ years of production experience, primarily working with Node.js/NestJS, React/Next.js and TypeScript. I've worked on both frontend and backend, production debugging, business logic, database operations and deployments. I'm now looking for a role where I can take on more engineering responsibility and continue growing into AI-enabled software development.
 
